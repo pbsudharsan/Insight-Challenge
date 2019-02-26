@@ -1,0 +1,2 @@
+drug_name,num_prescriber,total_cost
+MINOCYCLINE HCL,1,180.33

@@ -1,0 +1,2 @@
+id,prescriber_last_name,prescriber_first_name,drug_name,drug_cost
+1336172998,AAMODT,DENISE,MINOCYCLINE HCL,180.33
