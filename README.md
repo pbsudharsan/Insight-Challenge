@@ -7,5 +7,5 @@ This GitHub repository contains my solution to the [coding challenge](https://gi
 pharmacy_counting.py script reads the input file line by line and calculates the total cost of each drug.Using dictionary and set in python i keep track of patient names and drug names.Finally, the dictionary `drug_cost` is sorted by the value  and written into a file as per the format requested. . The script  ensures each row has 5 columns when split on commas.
 
 # Future Work 
-1.Though the code did pass the default test case.Due to limited amount of time i coudnt perform thorough unit testing .
+1.Though the code did pass the default test case.Due to limited amount of time i coudnt perform thorough unit testing . <br />
 2. optimization of code and more default checks. 
